@@ -1,0 +1,27 @@
+[
+  {
+    "id": "default",
+    "name": "默认分类",
+    "description": "默认分类"
+  },
+  {
+    "id": "documents",
+    "name": "文档",
+    "description": "文档文件"
+  },
+  {
+    "id": "images",
+    "name": "图片",
+    "description": "图片文件"
+  },
+  {
+    "id": "videos",
+    "name": "视频",
+    "description": "视频文件"
+  },
+  {
+    "id": "others",
+    "name": "其他",
+    "description": "其他类型文件"
+  }
+]
